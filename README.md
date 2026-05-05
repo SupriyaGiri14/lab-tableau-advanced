@@ -1,5 +1,5 @@
 
-👉 [link to tableau dashboard:]([https://github.com/SupriyaGiri14/SQL-Miniproject](https://public.tableau.com/app/profile/supriya.gir/viz/Tableau_Lab1_17779114781000/Dashboard1?publish=yes)
+👉 [link to tableau dashboard:](https://public.tableau.com/app/profile/supriya.gir/viz/Tableau_Lab1_17779114781000/Dashboard1?publish=yes)
 
 
 
